@@ -43,7 +43,7 @@ header {
 .orcamento-fundo {
     width: 100%;
     height: auto;
-    background-image: url("bahia.jpg");
+    background-image: url("/bahia.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
